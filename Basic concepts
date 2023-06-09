@@ -1,0 +1,1 @@
+U-net is a popular CNN architecture commonly used for tasks related to image segmentation (dividing an image into subgroups such as objects or regions, like Photoshop auto-select feature, also precise localization is to identify and delineate the boundaries of objects within an image).
